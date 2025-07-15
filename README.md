@@ -33,6 +33,6 @@ I'm a backend-focused developer who builds scalable and efficient apps using C#,
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: wendell.legardo@example.com
+- ✉️ Email: wllegardo@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wendelllegardo)
 - 🔧 [GitHub Projects](https://github.com/wendelllegardo?tab=repositories)
