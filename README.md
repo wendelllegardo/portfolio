@@ -23,7 +23,7 @@ I'm a backend-focused developer who builds scalable and efficient apps using C#,
 
 ## 📌 Featured Projects
 
-🔹 [Portfolio Website](https://wendelllegardo.github.io)  
+🔹 [Portfolio Website](https://wendelllegardo.github.io/portfolio)  
 `HTML/CSS` - A personal site built from scratch and hosted via GitHub Pages.
 
 🔹 [Employee CRUD System](https://github.com/wendelllegardo/EmployeeCRUD-ASPNET)  
